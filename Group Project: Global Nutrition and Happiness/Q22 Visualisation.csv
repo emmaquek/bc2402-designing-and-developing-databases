@@ -1,0 +1,13 @@
+Month;season_holiday;avg_fat_change;avg_carb_change;avg_protein_change
+"0 --> 1";Post-Holiday;22.15;48.23;15.15
+"1 --> 2";Post-Holiday;26.22;21.26;8.44
+"2 --> 3";Spring;0.53;14.61;4.10
+"3 --> 4";Spring;-13.00;2.54;-2.98
+"4 --> 5";Spring;-8.49;-43.42;-7.57
+"5 --> 6";Summer;-34.41;-47.72;-14.94
+"6 --> 7";Summer;-21.97;-42.38;-12.78
+"7 --> 8";Summer;-18.49;-48.39;-7.01
+"8 --> 9";Back-to-School;-11.40;10.49;-4.74
+"9 --> 10";Fall;9.01;1.28;3.03
+"10 --> 11";"Holiday Season";22.72;40.81;9.91
+"11 --> 12";"Holiday Season";26.73;36.64;10.36
