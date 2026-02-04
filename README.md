@@ -17,11 +17,11 @@ This individual SQL project analyses the coffee industry across Southeast Asia a
 Using a provided relational database, SQL queries were developed to answer analytical questions related to coffee sales, store expansion, and market characteristics. The emphasis was on writing clear, well-structured queries and explaining the logic behind each step.
 
 **Key Applications & Methods:**
-- Queried multiple related tables to analyse outlet counts, sales-related indicators, and geographic distribution
-- Used joins and aggregation functions to compare industry trends across regions
-- Structured queries to answer business-driven questions rather than isolated technical tasks
-- Included **inline SQL annotations** to clearly explain query logic, assumptions, and interpretations
-- Interpreted query outputs in a business and market context
+- Wrote complex SQL queries using `JOIN`, `GROUP BY`, `HAVING`, and aggregation functions to analyse industry trends
+- Queried multiple relational tables to compare regional market characteristics
+- Applied filtering and grouping logic to support business-driven analytical questions
+- Used **inline SQL annotations** to clearly document query intent, logic, and interpretation
+- Ensured query outputs were interpretable and aligned with real-world use cases
 
 ---
 
@@ -39,11 +39,11 @@ I contributed to **query design, analysis, and insight generation**, including t
 The project combined **SQL and NoSQL approaches** to analyse multiple datasets sourced from public platforms (e.g. Kaggle, Our World in Data), alongside an **additional dataset independently sourced (`fastfood.csv`)** to enrich the analysis.
 
 **Key Applications & Methods:**
-- Analysed nutritional intake data to identify seasonal patterns and consumption trends
-- Examined relationships between nutrient variation and happiness indicators across countries
-- Integrated both provided datasets and an independently sourced dataset (`fastfood.csv`) to enrich the analysis
-- Applied SQL for structured querying and NoSQL concepts for handling heterogeneous data
-- Generated insights with relevance to public health and policy discussions
+- Used **SQL** to query structured nutritional and country-level datasets, applying joins, aggregations, and conditional filtering
+- Applied **NoSQL concepts using MongoDB** to manage and explore heterogeneous and semi-structured data
+- Designed queries to support hypothesis-driven analysis rather than descriptive reporting
+- Integrated multiple datasets (provided and self-sourced) into a coherent analytical pipeline
+- Translated database query outputs into validated analytical findings
 
 **Presentation Recording:**  
 [▶️ Watch project presentation - Q18](https://youtu.be/cKWIr-Sbm6c)
@@ -53,9 +53,9 @@ The project combined **SQL and NoSQL approaches** to analyse multiple datasets s
 
 ## Skills & Tools Applied
 
-- SQL for relational database querying and analysis  
-- NoSQL concepts for handling and analysing diverse datasets  
-- Database design and data interpretation for decision-making  
-- Integrating multiple data sources to support analytical conclusions  
-- Communicating insights through clear documentation and presentations
+- SQL (joins, aggregation, filtering, subqueries)
+- NoSQL databases (MongoDB)
+- Relational and non-relational data modelling
+- Multi-dataset integration and query optimisation
+- Analytical reasoning and documentation of assumptions
 
