@@ -6,6 +6,13 @@ Through individual and group projects, SQL and NoSQL techniques were applied to 
 
 ---
 
+## Tools & Technologies Used
+
+- **SQL** – relational querying and analysis  
+- **NoSQL (MongoDB)** – handling semi-structured data 
+
+---
+
 ## Projects Overview
 
 ### 1. Coffee Industry Database Analysis (Individual Project – SQL)
