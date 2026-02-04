@@ -8,8 +8,10 @@ Through individual and group projects, SQL and NoSQL techniques were applied to 
 
 ## Tools & Technologies Used
 
-- **SQL** – relational querying and analysis  
-- **NoSQL (MongoDB)** – handling semi-structured data 
+- **MySQL** – relational database platform  
+- **SQL** – querying, aggregation, and data analysis  
+- **MongoDB (NoSQL)** – document-based data storage and querying  
+- **NoSQLBooster for MongoDB** – NoSQL query development and exploration  
 
 ---
 
